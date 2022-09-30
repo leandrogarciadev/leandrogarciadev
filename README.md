@@ -6,7 +6,7 @@ By-Leandro Garcia!</h3>
 
 🛠 *** Tech Stack ***
 
-👩‍💻  Back-End => Node.js | Python 
+👩‍💻  Back-End => Node.js | Python | Java
 
 🎨  Front-end => HTML | CSS | JavaScript 
 
