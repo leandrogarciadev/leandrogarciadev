@@ -4,7 +4,7 @@
 
 By-Leandro Garcia!</h3>
 
-🛠 *** Tech Stack ***
+🛠 *** Studing Stack ***
 
 👩‍💻  Back-End => Node.js | Python | Java
 
